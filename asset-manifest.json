@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sunflix/static/js/main.a5433ce5.js",
+    "main.js": "/sunflix/static/js/main.206a9541.js",
     "index.html": "/sunflix/index.html",
-    "main.a5433ce5.js.map": "/sunflix/static/js/main.a5433ce5.js.map"
+    "main.206a9541.js.map": "/sunflix/static/js/main.206a9541.js.map"
   },
   "entrypoints": [
-    "static/js/main.a5433ce5.js"
+    "static/js/main.206a9541.js"
   ]
 }
